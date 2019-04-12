@@ -1,0 +1,11 @@
+NBSommets=3
+NBArcs=2
+Sommets=[
+1
+2
+3
+]
+Arcs=[
+1 2
+2 3
+]
